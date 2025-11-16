@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Large/binary assets not to version
+dnn_model/*.weights
+*.mp4
+
