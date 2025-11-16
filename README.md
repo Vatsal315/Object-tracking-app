@@ -47,6 +47,8 @@ python object_tracking.py
 This keeps IDs stable while objects are visible, and drops them when they leave or are not detected anymore.
 
 <img width="960" height="568" alt="Screenshot 2025-11-15 at 6 09 08 PM" src="https://github.com/user-attachments/assets/b268c116-8b2e-4fec-a808-82ee77ead269" />
+<img width="1920" height="1144" alt="image" src="https://github.com/user-attachments/assets/9fa6b5e9-9691-4ff4-9421-c666ccd39e96" />
+
 
 
 ## Configuration knobs
