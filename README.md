@@ -46,6 +46,9 @@ python object_tracking.py
 
 This keeps IDs stable while objects are visible, and drops them when they leave or are not detected anymore.
 
+<img width="960" height="568" alt="Screenshot 2025-11-15 at 6 09 08 PM" src="https://github.com/user-attachments/assets/b268c116-8b2e-4fec-a808-82ee77ead269" />
+
+
 ## Configuration knobs
 - In `object_detection.py`:
   - `confThreshold` (default 0.5)
